@@ -38,7 +38,8 @@ A web-based business intelegence platform for data warehouse and data analytics.
   - Optimizing data distribution process
 - Technologies: Python, Django, NestJS, Pandas, MySQL, PostgreSQL, MongoDB, Apache Arrow, GCP.
 
-#### BNPB API Catalogue
+#### BNPB API Catalog
+a web-based API Catalog for Badan Nasional Penanggulangan Bencana
 ![alt text](./assets/img/bnpb.png?raw=true)
 - My Role: <b>Backend Developer</b>
 - Task Summary:
@@ -46,5 +47,4 @@ A web-based business intelegence platform for data warehouse and data analytics.
   - Create API usage documentations
 - Technologies: Python, Django, Pandas, MySQL, PostgreSQL, MongoDB
 
-### BinaryFest Website
-![alt text](./assets/img/binaryfest.png?raw=true)
+
