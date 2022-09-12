@@ -2,11 +2,13 @@
 
 Curious about data and technologies up to date, learning and implementing the most optimal way for better results, content creator is my interest.
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=AriefRahmanW)](https://github.com/AriefRahmanW/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/ariefrahmanw//">
   <img align="left" alt="Arief's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/><br/>
+<br/>
 
 ### Summary
 - +/-1.8 years experience in backend development.
