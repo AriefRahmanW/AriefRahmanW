@@ -32,12 +32,19 @@ Curious about data and technologies up to date, learning and implementing the mo
 A web-based business intelegence platform for data warehouse and data analytics.
 ![alt text](./assets/img/kalkula.png?raw=true)
 - My Role: <b>Backend Developer</b>
-- Task Summary: 
+- Task Summary:
+  - Design data warehouse architecture
   - Develop feature for integrating data from files, databases and APIs
-  - 
-- Technologies: Python, Django, NestJS, Pandas, Apache Arrow, GCP.
+  - Optimizing data distribution process
+- Technologies: Python, Django, NestJS, Pandas, MySQL, PostgreSQL, MongoDB, Apache Arrow, GCP.
 
 #### BNPB API Catalogue
 ![alt text](./assets/img/bnpb.png?raw=true)
 - My Role: <b>Backend Developer</b>
 - Task Summary:
+  - Generating MySQL or PostgreSQL tables into APIs, also MongoDB.
+  - Create API usage documentations
+- Technologies: Python, Django, Pandas, MySQL, PostgreSQL, MongoDB
+
+### BinaryFest Website
+![alt text](./assets/img/binaryfest.png?raw=true)
