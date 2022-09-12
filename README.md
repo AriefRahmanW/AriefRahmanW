@@ -22,7 +22,22 @@ Curious about data and technologies up to date, learning and implementing the mo
 - Messaging Tools: RabbitMQ.
 - Google Cloud Platform: Cloud Run (Serverless), Cloud Storage, Cloud Build, Cloud Trigger
 - AWS: S3
-- Communication Protocol: HTTP, gRPC, MQTT
+- Communication Protocol: HTTP, gRPC, MQTT, Websocket.
 - API Documentation Tools: Swagger/OpenAPI
 - Databases: MySQL, PostgreSQL, MongoDB, Firebase
 - DevOps Tools: Docker
+
+### Projects
+#### Kalkula Integrator
+A web-based business intelegence platform for data warehouse and data analytics.
+![alt text](./assets/img/kalkula.png?raw=true)
+- My Role: <b>Backend Developer</b>
+- Task Summary: 
+  - Develop feature for integrating data from files, databases and APIs
+  - 
+- Technologies: Python, Django, NestJS, Pandas, Apache Arrow, GCP.
+
+#### BNPB API Catalogue
+![alt text](./assets/img/bnpb.png?raw=true)
+- My Role: <b>Backend Developer</b>
+- Task Summary:
