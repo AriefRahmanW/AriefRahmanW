@@ -29,24 +29,4 @@ Curious about data and technologies up to date, learning and implementing the mo
 - Databases: MySQL, PostgreSQL, MongoDB, Firebase
 - DevOps Tools: Docker
 
-### Projects
-#### Kalkula Integrator
-A web-based business intelegence platform for data warehouse and data analytics.
-![alt text](./assets/img/kalkula.png?raw=true)
-- My Role: <b>Backend Developer</b>
-- Task Summary:
-  - Design data warehouse architecture
-  - Develop feature for integrating data from files, databases and APIs
-  - Optimizing data distribution process
-- Technologies: Python, Django, NestJS, Pandas, MySQL, PostgreSQL, MongoDB, Apache Arrow, GCP.
-
-#### BNPB API Catalog
-a web-based API Catalog for Badan Nasional Penanggulangan Bencana
-![alt text](./assets/img/bnpb.png?raw=true)
-- My Role: <b>Backend Developer</b>
-- Task Summary:
-  - Generating MySQL or PostgreSQL tables into APIs, also MongoDB.
-  - Create API usage documentations
-- Technologies: Python, Django, Pandas, MySQL, PostgreSQL, MongoDB
-
 
