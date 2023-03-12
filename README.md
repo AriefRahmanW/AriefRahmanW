@@ -12,21 +12,4 @@ Curious about data and technologies up to date, learning and implementing the mo
 </a>
 <br/>
 
-### Summary
-- +/-1.8 years experience in backend development.
-- Building and developing a data warehouse for a business intelligence platform from scratch.
-- Experience in developing applications using microservices architecture.
-- Adaptable, learn new things.
-
-### Professional Skills
-- Programming Languages: Python, Javascript/Typescript, C/C++, Java/Kotlin
-- Backend Frameworks: Flask, Django, NestJS, ExpressJS
-- Messaging Tools: RabbitMQ.
-- Google Cloud Platform: Cloud Run (Serverless), Cloud Storage, Cloud Build, Cloud Trigger
-- AWS: S3
-- Communication Protocol: HTTP, gRPC, MQTT, Websocket.
-- API Documentation Tools: Swagger/OpenAPI
-- Databases: MySQL, PostgreSQL, MongoDB, Firebase
-- DevOps Tools: Docker
-
 
